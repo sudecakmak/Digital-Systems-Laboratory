@@ -16,3 +16,17 @@ with 4 line-to-1 line multiplexer and external gates.
 with 3-to-8 line decoders and external logic gates.
 
 ![Screenshot 2022-10-30 123409](https://user-images.githubusercontent.com/102357822/198871891-021ccaf9-9ff0-4d1e-8487-094647c7471e.png)
+
+# Half adder circuit
+
+using only XOR and NAND gates.
+
+![half](https://user-images.githubusercontent.com/102357822/200165800-b05408c4-f2a9-45da-b6f1-233abed289df.png)
+
+# Full adder circuit
+
+using only XOR and NAND gates.
+
+![full](https://user-images.githubusercontent.com/102357822/200165823-4236fc2b-4dc1-4796-bfea-26961be6cf0a.png)
+
+
