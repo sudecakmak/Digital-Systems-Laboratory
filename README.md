@@ -30,3 +30,16 @@ using only XOR and NAND gates.
 ![full](https://user-images.githubusercontent.com/102357822/200165823-4236fc2b-4dc1-4796-bfea-26961be6cf0a.png)
 
 
+# 4 bit Adder/Subtractor circuit
+
+Implemented with IC 7483. The circuit uses signed 2’s complement system for negative numbers.
+
+![Screenshot 2022-11-11 134245](https://user-images.githubusercontent.com/102357822/201324524-5f1fd0f6-2e65-4ad7-b457-082f58582702.png)
+
+
+# IC 7483
+
+![Screenshot 2022-11-11 134327](https://user-images.githubusercontent.com/102357822/201324534-f5353036-8632-4389-ad8b-4e45257f3479.png)
+
+
+
