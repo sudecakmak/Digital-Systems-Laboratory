@@ -39,7 +39,11 @@ Implemented with IC 7483. The circuit uses signed 2’s complement system for ne
 
 # IC 7483
 
+![Screenshot 2022-11-16 010631](https://user-images.githubusercontent.com/102357822/202035456-1b56413c-2d04-4556-80f9-35cafc80aad0.png)
+
 ![Screenshot 2022-11-11 134327](https://user-images.githubusercontent.com/102357822/201324534-f5353036-8632-4389-ad8b-4e45257f3479.png)
+
+# SR Latch
 
 
 
