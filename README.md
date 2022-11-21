@@ -17,6 +17,8 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
 
 with 4 line-to-1 line multiplexer and external gates.
 
+It is combinational circuit that accepts an n-1 bit data and generates the additional bit that is to be transmitted with the bit stream. This additional or extra bit is called as a **Parity Bit**.
+
 ![Screenshot 2022-10-30 123315](https://user-images.githubusercontent.com/102357822/198871889-6bed9be5-871e-4ebf-9d15-d30d03c5389d.png)
 
 
@@ -35,15 +37,24 @@ with 3-to-8 line decoders and external logic gates.
 
 using only XOR and NAND gates.
 
+Half Adder is a combinational logic circuit which is designed by connecting one XOR gate and one NAND gate. The half adder circuit has **two inputs**: A and B, which add two input digits and generates a **carry and a sum**. The output obtained from the XOR gate is the sum of the two numbers while that obtained by NAND gate is the carry. 
+
 ![half](https://user-images.githubusercontent.com/102357822/200165800-b05408c4-f2a9-45da-b6f1-233abed289df.png)
+
+## Output Example
+![Screenshot 2022-11-21 030802](https://user-images.githubusercontent.com/102357822/202934254-eac21488-5ed9-4655-a823-cf25f36b9c3b.png)
 
 
 # Full adder circuit
 
 using only XOR and NAND gates.
 
+Full Adder is the circuit that consists of two XOR gates and three NAND gates. Full Adder is the adder that adds **three inputs** and produces two outputs which consist of two XOR gates and three NAND gates. The first two inputs are A and B and the third input is an input carry as **C-IN**. The output carry is designated as **C-OUT** and the normal output is designated as S which is SUM. The equation obtained by the XOR gate is the sum of the binary digits. While the output obtained by NAND gate is the carry obtained by addition. 
+
 ![full](https://user-images.githubusercontent.com/102357822/200165823-4236fc2b-4dc1-4796-bfea-26961be6cf0a.png)
 
+## Output Example
+![Screenshot 2022-11-21 031113](https://user-images.githubusercontent.com/102357822/202934267-83126154-8757-4ff8-8fc4-ea46a6af8a9a.png)
 
 # Adder or Subtractor circuit
 
