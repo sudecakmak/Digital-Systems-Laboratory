@@ -8,10 +8,12 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
 - [Half adder circuit](#half-adder-circuit)
 - [Full adder circuit](#full-adder-circuit)
 - [Adder or Subtractor circuit](#adder-or-subtractor-circuit)
-- [IC 7483](#ic-7483)
+  - [IC 7483](#ic-7483)
 - [SR Latch](#sr-latch)
 - [D Latch](#d-latch)
-
+- [Flip Flop](#flip-flop)
+  - [J-K Flip Flop](#j-k-flip-flop)
+  - [IC 7476](#ic-7476)
 
 # Parity bit generator circuit 
 
@@ -63,7 +65,7 @@ Implemented with IC 7483. The circuit uses signed 2’s complement system for ne
 ![Screenshot 2022-11-11 134245](https://user-images.githubusercontent.com/102357822/201324524-5f1fd0f6-2e65-4ad7-b457-082f58582702.png)
 
 
-# IC 7483
+## IC 7483
 
 ![Screenshot 2022-11-11 134327](https://user-images.githubusercontent.com/102357822/201324534-f5353036-8632-4389-ad8b-4e45257f3479.png)
 
@@ -77,3 +79,19 @@ Implemented with IC 7483. The circuit uses signed 2’s complement system for ne
 ![Screenshot 2022-11-20 223220](https://user-images.githubusercontent.com/102357822/202933342-d42412d2-a8c7-42c1-8e72-eb844a060ffd.png)
 
 
+# Flip Flop
+
+Implemented with IC 7476.
+
+![Screenshot 2022-11-24 005413](https://user-images.githubusercontent.com/102357822/203652472-81623066-eb37-460c-a7f1-a37f59596334.png)
+
+![Screenshot 2022-11-24 004510](https://user-images.githubusercontent.com/102357822/203652529-053a7a57-2328-4529-80f6-9265ce6e4090.png)
+
+## Output Example
+![Screenshot 2022-11-24 005321](https://user-images.githubusercontent.com/102357822/203652489-b8117994-0bea-4657-9cc0-92a7f6e09abc.png)
+
+## IC 7476
+![Screenshot 2022-11-24 004538](https://user-images.githubusercontent.com/102357822/203652615-53ac8ac8-222a-404a-9af1-96ba79ae8c1e.png)
+
+## J-K Flip Flop
+![Screenshot 2022-11-24 004618](https://user-images.githubusercontent.com/102357822/203652709-99c21b5d-023f-4740-acec-19c9d3468fcb.png)
