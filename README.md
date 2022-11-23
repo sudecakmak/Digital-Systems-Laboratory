@@ -81,6 +81,10 @@ Implemented with IC 7483. The circuit uses signed 2’s complement system for ne
 
 
 # D Latch
+
+> A D Flip Flop (also known as a D Latch or a ‘data’ or ‘delay’ flip-flop) is a type of flip flop that tracks the input, making transitions with match those of the input D. The D stands for ‘data’, this flip-flop stores the value that is on the data line. It can be thought of as a basic memory cell.
+
+
 ![Screenshot 2022-11-24 011356](https://user-images.githubusercontent.com/102357822/203654899-9a2bc4e9-b60a-44a2-be45-a4b886b34b15.png)
 
 ![Screenshot 2022-11-20 223220](https://user-images.githubusercontent.com/102357822/202933342-d42412d2-a8c7-42c1-8e72-eb844a060ffd.png)
