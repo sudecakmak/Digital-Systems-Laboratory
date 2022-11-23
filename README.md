@@ -85,6 +85,7 @@ Implemented with IC 7476.
 
 ![Screenshot 2022-11-24 005413](https://user-images.githubusercontent.com/102357822/203652472-81623066-eb37-460c-a7f1-a37f59596334.png)
 
+
 ![Screenshot 2022-11-24 004510](https://user-images.githubusercontent.com/102357822/203652529-053a7a57-2328-4529-80f6-9265ce6e4090.png)
 
 ## Output Example
