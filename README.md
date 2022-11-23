@@ -62,7 +62,12 @@ using only XOR and NAND gates.
 
 Implemented with IC 7483. The circuit uses signed 2’s complement system for negative numbers.
 
+> A Binary Adder-Subtractor is one that is capable of both the addition and subtraction of binary numbers in one circuit itself. The operation is performed depending on the binary value the control signal holds. It is one of the components of the ALU (Arithmetic Logic Unit). 
+
 ![Screenshot 2022-11-11 134245](https://user-images.githubusercontent.com/102357822/201324524-5f1fd0f6-2e65-4ad7-b457-082f58582702.png)
+
+## Output Example
+![Screenshot 2022-11-24 010929](https://user-images.githubusercontent.com/102357822/203654362-77aa3b1d-deb5-4c5d-a6a8-1a9b51d0b304.png)
 
 
 ## IC 7483
