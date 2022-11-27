@@ -11,10 +11,13 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
   - [IC 7483](#ic-7483)
 - [SR Latch](#sr-latch)
 - [D Latch](#d-latch)
-- [Flip Flop](#flip-flop)
+- [Flip Flop 1](#flip-flop-1)
   - [J-K Flip Flop](#j-k-flip-flop)
   - [IC 7476](#ic-7476)
-
+- [Flip Flop 2](#flip-flop-2)
+  - [D Flip Flop](#d-flip-flop)
+  - [IC 7474](#ic-7474)
+  
 # Parity bit generator circuit 
 
 with 4 line-to-1 line multiplexer and external gates.
@@ -93,12 +96,11 @@ Implemented with IC 7483. The circuit uses signed 2’s complement system for ne
 ![Screenshot 2022-11-24 011304](https://user-images.githubusercontent.com/102357822/203654963-266739ed-b1aa-4d19-968d-9af4f66995cb.png)
 
 
-# Flip Flop
+# Flip Flop 1
 
 Implemented with IC 7476.
 
 ![Screenshot 2022-11-24 005413](https://user-images.githubusercontent.com/102357822/203652472-81623066-eb37-460c-a7f1-a37f59596334.png)
-
 
 ![Screenshot 2022-11-24 004510](https://user-images.githubusercontent.com/102357822/203652529-053a7a57-2328-4529-80f6-9265ce6e4090.png)
 
@@ -110,3 +112,24 @@ Implemented with IC 7476.
 
 ## J-K Flip Flop
 ![Screenshot 2022-11-24 004618](https://user-images.githubusercontent.com/102357822/203652709-99c21b5d-023f-4740-acec-19c9d3468fcb.png)
+
+
+# Flip Flop 2
+
+Implemented with IC 7474.
+
+![Screenshot 2022-11-27 202922](https://user-images.githubusercontent.com/102357822/204150656-93bf0343-c06d-4ec8-bd5a-a6de38ae464a.png)
+
+![Screenshot 2022-11-27 201615](https://user-images.githubusercontent.com/102357822/204150221-9cfb9670-1f28-490d-b4b8-0ce037f5a4f2.png)
+
+
+## Output Example
+![Screenshot 2022-11-27 202945](https://user-images.githubusercontent.com/102357822/204150722-16685484-eb0e-4949-bfcc-d0a71a3428cc.png)
+
+
+## IC 7474
+![Screenshot 2022-11-27 201639](https://user-images.githubusercontent.com/102357822/204150237-249a81cb-ee38-4d80-83e5-19d92252e3fc.png)
+
+## D Flip Flop
+![Screenshot 2022-11-27 201710](https://user-images.githubusercontent.com/102357822/204150812-8baf1418-7928-423d-8e1c-4612eb45f942.png)
+
