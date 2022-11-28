@@ -138,5 +138,11 @@ Implemented with IC 7474.
 # Mealy Machine
 A synchronous sequential circuit with one input x, and one output z. When x=1, this circuit goes through the following repeated binary state sequence: 00, 01, 11, 10. When x=0, the state of the circuit remains the same. The output z=1 if the present state is either 00 or 11.
 
+![Screenshot 2022-11-28 213655](https://user-images.githubusercontent.com/102357822/204355441-75f43644-cb87-437c-9036-ace22bae66fd.png)
+
 ![Screenshot 2022-11-28 211823](https://user-images.githubusercontent.com/102357822/204352151-3deb9560-d307-4e52-ae92-1fdf089bb45c.png)
+
+## Output Example
+![Screenshot 2022-11-28 214121](https://user-images.githubusercontent.com/102357822/204355495-f567bead-e83c-4686-b6bc-9a3431d810cf.png)
+
 
