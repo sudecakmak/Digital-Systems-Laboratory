@@ -17,6 +17,7 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
 - [Flip Flop 2](#flip-flop-2)
   - [D Flip Flop](#d-flip-flop)
   - [IC 7474](#ic-7474)
+- [Mealy Machine](#mealy-machine)
   
 # Parity bit generator circuit 
 
@@ -132,4 +133,10 @@ Implemented with IC 7474.
 
 ## D Flip Flop
 ![Screenshot 2022-11-27 201710](https://user-images.githubusercontent.com/102357822/204150812-8baf1418-7928-423d-8e1c-4612eb45f942.png)
+
+
+# Mealy Machine
+A synchronous sequential circuit with one input x, and one output z. When x=1, this circuit goes through the following repeated binary state sequence: 00, 01, 11, 10. When x=0, the state of the circuit remains the same. The output z=1 if the present state is either 00 or 11.
+
+![Screenshot 2022-11-28 211823](https://user-images.githubusercontent.com/102357822/204352151-3deb9560-d307-4e52-ae92-1fdf089bb45c.png)
 
