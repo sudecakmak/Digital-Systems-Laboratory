@@ -155,3 +155,5 @@ A synchronous sequential circuit with one input x, and one output z. When x=1, t
 The 7474 IC contains two independent positive-edge-triggered D flip-flops with complementary outputs. 
 
 ![Screenshot 2022-11-29 195918](https://user-images.githubusercontent.com/102357822/204594363-5c464874-cd0a-414c-ba80-47e95b445a0f.png)
+
+![Screenshot 2022-11-29 195541](https://user-images.githubusercontent.com/102357822/204594626-ac71e8f1-d376-442a-bb50-6c540fc3b2af.png)
