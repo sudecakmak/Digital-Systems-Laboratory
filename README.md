@@ -17,7 +17,8 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
 - [Flip Flop 2](#flip-flop-2)
   - [D Flip Flop](#d-flip-flop)
   - [IC 7474](#ic-7474)
-- [Mealy Machine](#mealy-machine)
+- [Synchronous 4-bit counter](#synchronous-4-bit-counter)
+- [Synchronous 4-bit counter with 7474](#synchronous-4-bit-counter-with-7474)
   
 # Parity bit generator circuit 
 
@@ -135,8 +136,10 @@ Implemented with IC 7474.
 ![Screenshot 2022-11-27 201710](https://user-images.githubusercontent.com/102357822/204150812-8baf1418-7928-423d-8e1c-4612eb45f942.png)
 
 
-# Mealy Machine
+# Synchronous 4-bit counter
 A synchronous sequential circuit with one input x, and one output z. When x=1, this circuit goes through the following repeated binary state sequence: 00, 01, 11, 10. When x=0, the state of the circuit remains the same. The output z=1 if the present state is either 00 or 11.
+
+![Screenshot 2022-11-29 195840](https://user-images.githubusercontent.com/102357822/204594316-590eefa3-5030-42ba-981c-f7b617ad220f.png)
 
 ![Screenshot 2022-11-28 213655](https://user-images.githubusercontent.com/102357822/204355441-75f43644-cb87-437c-9036-ace22bae66fd.png)
 
@@ -146,3 +149,9 @@ A synchronous sequential circuit with one input x, and one output z. When x=1, t
 ![Screenshot 2022-11-28 214121](https://user-images.githubusercontent.com/102357822/204355495-f567bead-e83c-4686-b6bc-9a3431d810cf.png)
 
 
+
+# Synchronous 4-bit counter with 7474
+
+The 7474 IC contains two independent positive-edge-triggered D flip-flops with complementary outputs. 
+
+![Screenshot 2022-11-29 195918](https://user-images.githubusercontent.com/102357822/204594363-5c464874-cd0a-414c-ba80-47e95b445a0f.png)
