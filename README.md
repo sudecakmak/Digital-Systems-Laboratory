@@ -19,6 +19,10 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
   - [IC 7474](#ic-7474)
 - [Synchronous 4-bit counter](#synchronous-4-bit-counter)
 - [Synchronous 4-bit counter with 7474](#synchronous-4-bit-counter-with-7474)
+- [BCD Counters](#bcd-counters)
+  - [D Flip Flop](#d-flip-flop)
+  - [IC 7493](#ic-7493)
+  1. [Count to 10](#count-to-10)
   
 # Parity bit generator circuit 
 
@@ -157,3 +161,17 @@ The 7474 IC contains two independent positive-edge-triggered D flip-flops with c
 ![Screenshot 2022-11-29 195918](https://user-images.githubusercontent.com/102357822/204594363-5c464874-cd0a-414c-ba80-47e95b445a0f.png)
 
 ![Screenshot 2022-11-29 195541](https://user-images.githubusercontent.com/102357822/204594626-ac71e8f1-d376-442a-bb50-6c540fc3b2af.png)
+
+
+# BCD Counters
+
+## D Flip Flop
+![Screenshot 2022-12-04 000121](https://user-images.githubusercontent.com/102357822/205462171-82f3fdda-e2f1-4582-be77-a6a03a6165a6.png)
+
+## IC 7493
+![Screenshot 2022-12-04 000053](https://user-images.githubusercontent.com/102357822/205462177-62d69623-4f0d-4b1e-bd07-893920eb20c2.png)
+
+  
+## 1. Count to 10
+
+![Screenshot 2022-12-04 000020](https://user-images.githubusercontent.com/102357822/205462215-012aaae3-daa3-46e3-9bc3-b7b10262679f.png)
