@@ -22,7 +22,8 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
 - [BCD Counters](#bcd-counters)
   - [D Flip Flop](#d-flip-flop)
   - [IC 7493](#ic-7493)
-  1. [Count to 10](#count-to-10)
+  1. [Count to 16](#count-to-16)
+  2. [Count to 10](#count-to-10)
   
 # Parity bit generator circuit 
 
@@ -172,6 +173,13 @@ The 7474 IC contains two independent positive-edge-triggered D flip-flops with c
 ![Screenshot 2022-12-04 000053](https://user-images.githubusercontent.com/102357822/205462177-62d69623-4f0d-4b1e-bd07-893920eb20c2.png)
 
   
-## 1. Count to 10
+## 1.  Count to 16
+
+![Screenshot 2022-12-05 013547](https://user-images.githubusercontent.com/102357822/205519591-1e12a822-0216-4f48-a399-f1a7aa0bee56.png)
+
+
+## 2.  Count to 10
 
 ![Screenshot 2022-12-04 000020](https://user-images.githubusercontent.com/102357822/205462215-012aaae3-daa3-46e3-9bc3-b7b10262679f.png)
+
+
