@@ -25,7 +25,8 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
   - [Count to 16](#count-to-16)
   - [Count to 10](#count-to-10)
   - [Count to 6](#count-to-6)
-   
+  - [Count to 8](#count-to-8)
+    
 # Parity bit generator circuit 
 
 with 4 line-to-1 line multiplexer and external gates.
@@ -186,3 +187,8 @@ The 7474 IC contains two independent positive-edge-triggered D flip-flops with c
 ##  Count to 6
 
 ![Screenshot 2022-12-07 003126](https://user-images.githubusercontent.com/102357822/206027969-456b08e4-a6eb-4232-b5fc-cefbc98538b2.png)
+
+## Count to 8
+
+![Screenshot 2022-12-17 161058](https://user-images.githubusercontent.com/102357822/208243618-85e828c8-6375-4421-b34f-d51a4827a987.png)
+
