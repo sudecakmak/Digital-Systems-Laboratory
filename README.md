@@ -26,6 +26,8 @@ Projects I made in Introduction to Microcomputers. I used Logisim for my project
   - [Count to 10](#count-to-10)
   - [Count to 6](#count-to-6)
   - [Count to 8](#count-to-8)
+  - [Count to 12](#count-to-12)
+    
     
 # Parity bit generator circuit 
 
@@ -184,11 +186,17 @@ The 7474 IC contains two independent positive-edge-triggered D flip-flops with c
 
 ![Screenshot 2022-12-04 000020](https://user-images.githubusercontent.com/102357822/205462215-012aaae3-daa3-46e3-9bc3-b7b10262679f.png)
 
+
 ##  Count to 6
 
 ![Screenshot 2022-12-07 003126](https://user-images.githubusercontent.com/102357822/206027969-456b08e4-a6eb-4232-b5fc-cefbc98538b2.png)
 
+
 ## Count to 8
 
 ![Screenshot 2022-12-17 161058](https://user-images.githubusercontent.com/102357822/208243618-85e828c8-6375-4421-b34f-d51a4827a987.png)
+
+
+## Count to 12
+![Screenshot 2022-12-19 161324](https://user-images.githubusercontent.com/102357822/208434351-3068d8dc-ebd9-47fb-b904-4ce362b1bee7.png)
 
